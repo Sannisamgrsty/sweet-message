@@ -11,3 +11,6 @@ window.onload = () => {
 }
 ```
 
+## Feature
+Type 0.0.0 It's just a simple feature.
+
